@@ -1,5 +1,6 @@
 # FlatUI - C#
-C# version of the original FlatUI version created in Visual Basic.
+FlatUI is a C# port of the Flat UI theme released by iSynthesis, which
+was written in Visual Basic.
 
 ---
 Initial credits go to 
